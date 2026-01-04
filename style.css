@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: bisque;
+}
+
+.btn {
+  width: 200px;
+  height: 100px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.btn--red {
+  background-color: red;
+}
+
+.btn--green {
+  background-color: green;
+}
